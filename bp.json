@@ -1,0 +1,47 @@
+{
+  "producer_account_name": "eoschaintech",
+  "producer_public_key": "EOS7nN8AJV2osRkogucQpvHaNieK9jWv67rwQf81mLgQvQScTQEZX",
+  "org": {
+    "candidate_name": "eoschaintech",
+    "website": "https://www.eoschaintech.com",
+    "code_of_conduct":"",
+    "ownership_disclosure":"https://www.eoschaintech.com",
+    "email":"support@eoschaintech.com",
+    "branding":{
+      "logo_256":"https://www.eoschaintech.com/logo/logo_256.jpg",
+      "logo_1024":"https://www.eoschaintech.com/logo/logo_1024.jpg",
+      "logo_svg":""
+    },
+    "location": {
+      "name": "Beijing",
+      "country": "CN",
+      "latitude": 39.54,
+      "longitude": 116.23
+    },
+    "social": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github":"https://github.com/lansheng228/eoschaintech",
+      "reddit": "",
+      "keybase": "",
+      "telegram": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "eoschaintech",
+        "country": "CN",
+        "latitude": 39.54,
+        "longitude": 116.23
+      },
+      "is_producer": true,
+      "p2p_endpoint": "eoschaintech.com:19876",
+      "api_endpoint": "http://api.eoschaintech.com",
+      "ssl_endpoint": "https://api.eoschaintech.com"
+    }
+  ]
+}
+

@@ -865,6 +865,7 @@ h3.agileinfo_sign {
 }
 .agileits_team_grid_figure,.agileits_team_grid_figure_social {
     float: left;
+    transform: rotate(90deg);
 }
 .agileits_team_grid_figure img {
     border: 5px solid #fff;
