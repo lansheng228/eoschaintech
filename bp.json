@@ -3,13 +3,13 @@
   "producer_public_key": "EOS7nN8AJV2osRkogucQpvHaNieK9jWv67rwQf81mLgQvQScTQEZX",
   "org": {
     "candidate_name": "eoschaintech",
-    "website": "https://www.eoschaintech.com",
+    "website": "http://www.eoschaintech.net",
     "code_of_conduct":"",
-    "ownership_disclosure":"https://www.eoschaintech.com",
-    "email":"support@eoschaintech.com",
+    "ownership_disclosure":"http://www.eoschaintech.net",
+    "email":"support@eoschaintech.net",
     "branding":{
-      "logo_256":"https://www.eoschaintech.com/logo/logo_256.jpg",
-      "logo_1024":"https://www.eoschaintech.com/logo/logo_1024.jpg",
+      "logo_256":"http://www.eoschaintech.net/logo/logo_256.jpg",
+      "logo_1024":"http://www.eoschaintech.net/logo/logo_1024.jpg",
       "logo_svg":""
     },
     "location": {
@@ -38,9 +38,9 @@
         "longitude": 116.23
       },
       "is_producer": true,
-      "p2p_endpoint": "eoschaintech.com:19876",
-      "api_endpoint": "http://api.eoschaintech.com",
-      "ssl_endpoint": "https://api.eoschaintech.com"
+      "p2p_endpoint": "eoschaintech.net:19876",
+      "api_endpoint": "http://api.eoschaintech.net",
+      "ssl_endpoint": "https://api.eoschaintech.net"
     }
   ]
 }
